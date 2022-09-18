@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class HF {
+public class HF {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+
+        System.out.println("Hello again");
+    }
 }

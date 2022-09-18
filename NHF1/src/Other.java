@@ -5,5 +5,6 @@ public class Other {
 
     public void bye() {
         System.out.println("Bye");
+        System.out.println("*wave*");
     }
 }
